@@ -1,0 +1,21 @@
+# ablation for curricula (backbone:gat loss:curri feature:global-local)
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 1
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 2
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 3
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 4
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 5
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 1 --contrast-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 2 --contrast-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 3 --contrast-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 4 --contrast-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 5 --contrast-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 1 --bias-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 2 --bias-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 3 --bias-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 4 --bias-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 5 --bias-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 1 --anti-curri
+# CUDA_VISIBLE_DEVICES=5 python main.py --seed 2 --anti-curri
+# CUDA_VISIBLE_DEVICES=4 python main.py --seed 3 --anti-curri
+CUDA_VISIBLE_DEVICES=4 python main.py --seed 4 --anti-curri
+# CUDA_VISIBLE_DEVICES=4 python main.py --seed 5 --anti-curri
