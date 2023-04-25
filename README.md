@@ -1,5 +1,5 @@
 # UCL-GLGNN
-
+# Important: This code is for review only.
 UCL-GLGNN is a computational biology tool to predict the changes in thermodynamic stability of protein structure
 upon point mutations with **Siamese Graph Attention Network**. ThermoGNN constructs the residue interaction network
 around the mutation site, and model on the impact of point mutation on the interactions among the neighborhood residues.
