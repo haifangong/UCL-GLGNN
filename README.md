@@ -7,7 +7,7 @@ ThermoGNN integrates physicochemical properties of amino acids, multiple alignme
 
 ## Installation
 
-Several third-party software and python libraries are required to use ThermoGNN for thermodynamic stability predictions.
+Several third-party software and python libraries are required to use UCL-GLGNN for thermodynamic stability predictions.
 We outline the steps to install them in this section.
 
 ### Install Rosetta
