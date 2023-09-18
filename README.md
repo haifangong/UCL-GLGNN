@@ -1,9 +1,13 @@
-# UCL-GLGNN (ThermoGNN) Bioinformatics 2023
+![image](https://github.com/haifangong/UCL-GLGNN/assets/67967691/5ccd775f-29fa-4638-828d-2345367d03ce)# UCL-GLGNN (ThermoGNN) Bioinformatics 2023
 
 ThermoGNN is a computational biology tool to predict the changes in thermodynamic stability of protein structure
 upon point mutations with **Siamese Graph Attention Network**. ThermoGNN constructs the residue interaction network
 around the mutation site, and model on the impact of point mutation on the interactions among the neighborhood residues.
 ThermoGNN integrates physicochemical properties of amino acids, multiple alignment profiles and energy scores.
+
+## Dataset
+The dataset after processing can be download from [Google Drive](https://drive.google.com/file/d/1jkA-Pj5UDw9E0xNbqIA94O2pnLWWYUWN/view?usp=drive_link) or 
+[Baidu Drive](https://pan.baidu.com/s/1OJluESKlvhDi0I7NJKSogQ?pwd=bron).
 
 ## Installation
 
