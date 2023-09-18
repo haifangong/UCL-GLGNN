@@ -1,4 +1,4 @@
-![image](https://github.com/haifangong/UCL-GLGNN/assets/67967691/5ccd775f-29fa-4638-828d-2345367d03ce)# UCL-GLGNN (ThermoGNN) Bioinformatics 2023
+# Unbiased Curriculum Learning Enhanced Global-Local Graph Neural Network for Protein Thermodynamic Stability Prediction (UCL-GLGNN, ThermoGNN) Bioinformatics 2023
 
 ThermoGNN is a computational biology tool to predict the changes in thermodynamic stability of protein structure
 upon point mutations with **Siamese Graph Attention Network**. ThermoGNN constructs the residue interaction network
