@@ -1,0 +1,14 @@
+2023-08-01 Tuesday 17:26:50 INFO:Task: test
+2023-08-01 Tuesday 17:27:05 INFO:Fold 1, Direct PCC: 0.603, Direct RMSE: 1.288, Reverse PCC: 0.598, Reverse RMSE: 1.275, Dir-Rev PCC -0.996, <Delta>: -0.097
+2023-08-01 Tuesday 17:27:05 INFO:Fold 2, Direct PCC: 0.642, Direct RMSE: 1.210, Reverse PCC: 0.652, Reverse RMSE: 1.193, Dir-Rev PCC -0.991, <Delta>: -0.019
+2023-08-01 Tuesday 17:27:05 INFO:Fold 3, Direct PCC: 0.644, Direct RMSE: 1.218, Reverse PCC: 0.643, Reverse RMSE: 1.206, Dir-Rev PCC -0.996, <Delta>: -0.083
+2023-08-01 Tuesday 17:27:05 INFO:Fold 4, Direct PCC: 0.611, Direct RMSE: 1.274, Reverse PCC: 0.622, Reverse RMSE: 1.249, Dir-Rev PCC -0.994, <Delta>: -0.041
+2023-08-01 Tuesday 17:27:06 INFO:Fold 5, Direct PCC: 0.674, Direct RMSE: 1.243, Reverse PCC: 0.680, Reverse RMSE: 1.222, Dir-Rev PCC -0.995, <Delta>: -0.024
+2023-08-01 Tuesday 17:27:06 INFO:Avg Direct PCC: 0.665, Avg Direct RMSE: 1.204, Avg Reverse PCC: 0.669, Avg Reverse RMSE: 1.184, Avg Dir-Rev PCC -0.999, Avg <Delta>: -0.053
+2023-08-01 Tuesday 17:27:06 INFO:Task: p53
+2023-08-01 Tuesday 17:27:06 INFO:Fold 1, Direct PCC: 0.527, Direct RMSE: 1.705, Reverse PCC: 0.530, Reverse RMSE: 1.676, Dir-Rev PCC -0.992, <Delta>: -0.061
+2023-08-01 Tuesday 17:27:06 INFO:Fold 2, Direct PCC: 0.584, Direct RMSE: 1.557, Reverse PCC: 0.584, Reverse RMSE: 1.561, Dir-Rev PCC -0.993, <Delta>: 0.017
+2023-08-01 Tuesday 17:27:06 INFO:Fold 3, Direct PCC: 0.564, Direct RMSE: 1.560, Reverse PCC: 0.559, Reverse RMSE: 1.537, Dir-Rev PCC -0.995, <Delta>: -0.116
+2023-08-01 Tuesday 17:27:06 INFO:Fold 4, Direct PCC: 0.641, Direct RMSE: 1.627, Reverse PCC: 0.635, Reverse RMSE: 1.617, Dir-Rev PCC -0.987, <Delta>: -0.027
+2023-08-01 Tuesday 17:27:06 INFO:Fold 5, Direct PCC: 0.666, Direct RMSE: 1.659, Reverse PCC: 0.670, Reverse RMSE: 1.638, Dir-Rev PCC -0.993, <Delta>: -0.002
+2023-08-01 Tuesday 17:27:06 INFO:Avg Direct PCC: 0.647, Avg Direct RMSE: 1.562, Avg Reverse PCC: 0.644, Avg Reverse RMSE: 1.541, Avg Dir-Rev PCC -0.998, Avg <Delta>: -0.038
