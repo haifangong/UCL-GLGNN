@@ -3,7 +3,6 @@ import numpy as np
 import torch
 
 from ThermoGNN.loss import unbiased_curriculum_loss
-from ThermoGNN.mcdrop import MCDrop
 from torch.nn.functional import mse_loss
 from torchmetrics.functional import pearson_corrcoef
 
