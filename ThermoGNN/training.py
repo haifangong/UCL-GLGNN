@@ -17,10 +17,6 @@ def set_seed(seed):
     torch.backends.cudnn.benchmark = False
 
 
-mome_bank = []
-momentum_list2 = []
-
-
 def train(args, epoch, model, train_loader, valid_loader, device, criterion, optimizer):
     model.train()
     total_train_loss = 0
